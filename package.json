@@ -1,0 +1,16 @@
+{
+  "name": "webpack-library-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.0.0-alpha",
+    "webpack": "^4.16.2",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5"
+  },
+  "scripts": {
+    "build": "yarn webpack",
+    "start": "yarn webpack-dev-server"
+  }
+}
