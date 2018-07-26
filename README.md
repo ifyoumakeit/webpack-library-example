@@ -5,7 +5,7 @@ Looking to export...
 ```js
 window.Components = {
   bar: "bar",
-  bar: "baz",
+  baz: "baz",
   foo: "foo",
   index: {}
 };
